@@ -173,7 +173,7 @@ const Contact = () => {
                   <Mail className="text-amber-600 mt-1" size={24} />
                   <div>
                     <h4 className="font-semibold text-gray-900">Email</h4>
-                    <p className="text-gray-600">info@almadinarestaurant.com</p>
+                    <p className="text-gray-600">info@dishorestaurant.com</p>
                     <p className="text-sm text-gray-500">We respond within 24 hours</p>
                   </div>
                 </div>
