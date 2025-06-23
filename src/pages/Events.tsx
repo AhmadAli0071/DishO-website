@@ -122,7 +122,7 @@ const Events = () => {
         <section className="mb-16">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-gray-900 mb-4">Upcoming Events</h2>
-            <p className="text-xl text-gray-600">Don't miss these special occasions at Al Madina</p>
+            <p className="text-xl text-gray-600">Don't miss these special occasions at DishO</p>
           </div>
           
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">

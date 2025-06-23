@@ -26,7 +26,7 @@ const Navigation = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-3 group">
             <div className="text-3xl font-bold bg-gradient-to-r from-amber-600 to-amber-700 bg-clip-text text-transparent group-hover:from-amber-700 group-hover:to-amber-800 transition-all duration-300 transform group-hover:scale-105">
-              Al Madina
+              DishO
             </div>
             <div className="text-sm text-gray-600 hidden sm:block group-hover:text-amber-600 transition-colors duration-300">Restaurant</div>
           </Link>

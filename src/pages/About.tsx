@@ -29,7 +29,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl font-bold text-gray-900 mb-6">The Al Madina Legacy</h2>
+              <h2 className="text-4xl font-bold text-gray-900 mb-6">The DishO Legacy</h2>
               <div className="space-y-4 text-gray-600 text-lg">
                 <p>
                   Established in 1985, DishO began as a small family venture with a simple mission: 
@@ -37,7 +37,7 @@ const About = () => {
                   has grown into one of the city's most beloved dining destinations.
                 </p>
                 <p>
-                  Our founder, Mohammad Al Madina, immigrated from Lahore, Pakistan, bringing with him generations 
+                  Our founder, Mohammad DishO, immigrated from Lahore, Pakistan, bringing with him generations 
                   of family recipes and an unwavering commitment to quality. His vision was to create a place where 
                   traditional flavors could flourish and families could gather to share memorable meals.
                 </p>
@@ -156,7 +156,7 @@ const About = () => {
               </div>
               <h3 className="text-xl font-bold mb-4">Community</h3>
               <p className="text-gray-600">
-                Al Madina is more than a restaurant; it's a gathering place where 
+                DishO is more than a restaurant; it's a gathering place where 
                 relationships are built and memories are made.
               </p>
             </div>
@@ -180,7 +180,7 @@ const About = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Experience Our Story</h2>
           <p className="text-xl text-amber-100 mb-8">
-            Join us for a meal and become part of the Al Madina family tradition.
+            Join us for a meal and become part of the DishO family tradition.
           </p>
           <button className="bg-white text-amber-600 hover:bg-gray-100 px-8 py-3 text-lg rounded-full transition-all duration-300 hover:scale-105 font-semibold">
             Make a Reservation
